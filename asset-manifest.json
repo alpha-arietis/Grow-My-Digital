@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/static/js/main.246cd563.chunk.js",
+    "main.js.map": "/static/js/main.246cd563.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9931219c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9931219c.js.map",
+    "static/js/2.a2b2620f.chunk.js": "/static/js/2.a2b2620f.chunk.js",
+    "static/js/2.a2b2620f.chunk.js.map": "/static/js/2.a2b2620f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.70537c04fe10bf9baf28f6352ff38768.js": "/precache-manifest.70537c04fe10bf9baf28f6352ff38768.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.a2b2620f.chunk.js.LICENSE.txt": "/static/js/2.a2b2620f.chunk.js.LICENSE.txt",
+    "static/media/alphaarietis.png": "/static/media/alphaarietis.4deda89b.png",
+    "static/media/emarket.png": "/static/media/emarket.a8ff8eba.png",
+    "static/media/herobgd.jpg": "/static/media/herobgd.ccb0405b.jpg",
+    "static/media/herobge.jpg": "/static/media/herobge.0ab115e2.jpg",
+    "static/media/laptopapples.jpg": "/static/media/laptopapples.692c3f17.jpg",
+    "static/media/service-analytics.png": "/static/media/service-analytics.32fffd22.png",
+    "static/media/service-design.png": "/static/media/service-design.eaa75aee.png",
+    "static/media/service-ppc.png": "/static/media/service-ppc.b03ba9ff.png",
+    "static/media/service-seo.png": "/static/media/service-seo.74bc7cb1.png",
+    "static/media/ultimatespitroastmotors.png": "/static/media/ultimatespitroastmotors.0f148024.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9931219c.js",
+    "static/js/2.a2b2620f.chunk.js",
+    "static/js/main.246cd563.chunk.js"
+  ]
+}
